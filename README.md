@@ -4,7 +4,9 @@ Repo containing the codes of the paper "Assembly Theory Reduced to Shannon Entro
 https://web3.arxiv.org/abs/2408.15108
 
 The contents of this repo are:
+
 a) AI-Calculation - Paper.ipynb : a Jupyter notebook containing codes for the calculations and figures of the paper;
+
 b) .csv files: original data from Marshall et al. (2021) Figures 3 and 4.
 
 
