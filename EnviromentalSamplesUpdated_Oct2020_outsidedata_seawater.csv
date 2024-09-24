@@ -1,0 +1,1183 @@
+m.z,Number.of.peaks,Sample,Source
+302.28,7,NASA_A,??
+314.28,2,NASA_A,??
+316.3,7,NASA_A,??
+328.3,3,NASA_A,??
+330.32,11,NASA_A,??
+331.21,15,NASA_A,??
+389.25,9,NASA_A,??
+447.29,1,NASA_A,??
+331.21,11,NASA_B,??
+389.25,1,NASA_B,??
+447.29,1,NASA_B,??
+301.14,1,NASA_C,??
+307.12,1,NASA_C,??
+323.15,1,NASA_C,??
+323.18,1,NASA_C,??
+327.01,1,NASA_C,??
+329,1,NASA_C,??
+329.01,1,NASA_C,??
+333.13,1,NASA_C,??
+335.15,1,NASA_C,??
+348.99,1,NASA_C,??
+349.16,1,NASA_C,??
+355.07,10,NASA_C,??
+363.18,3,NASA_C,??
+365.19,2,NASA_C,??
+371.1,24,NASA_C,??
+372.1,10,NASA_C,??
+393.08,2,NASA_C,??
+445.12,7,NASA_C,??
+372.1,10,NASA_C,??
+330.75,56,NASA_D,??
+332.75,63,NASA_D,??
+334.74,16,NASA_D,??
+334.75,17,NASA_D,??
+334.78,16,NASA_D,??
+348.76,10,NASA_D,??
+348.99,9,NASA_D,??
+350.76,10,NASA_D,??
+350.98,7,NASA_D,??
+350.99,7,NASA_D,??
+352.75,11,NASA_D,??
+352.76,11,NASA_D,??
+359.77,14,NASA_D,??
+377.78,12,NASA_D,??
+393.08,20,NASA_D,??
+413.27,8,NASA_D,??
+467.1,22,NASA_D,??
+301.04,37,NASA_E,??
+305.01,8,NASA_E,??
+323.03,28,NASA_E,??
+327.01,2,NASA_E,??
+329,2,NASA_E,??
+329.01,2,NASA_E,??
+353.14,68,NASA_E,??
+355.07,4,NASA_E,??
+365.1,6,NASA_E,??
+365.11,4,NASA_E,??
+371.1,9,NASA_E,??
+394.19,1,NASA_E,??
+402.23,10,NASA_E,??
+445.12,8,NASA_E,??
+463.22,6,NASA_E,??
+465.22,19,NASA_E,??
+485.2,14,NASA_E,??
+485.21,19,NASA_E,??
+487.2,52,NASA_E,??
+304.3,7,Coal,Dead
+305.16,10,Coal,Dead
+326.38,8,Coal,Dead
+379.32,11,Coal,Dead
+380.32,10,Coal,Dead
+392.21,2,Coal,Dead
+426.17,2,Coal,Dead
+427.17,4,Coal,Dead
+428.16,2,Coal,Dead
+428.17,2,Coal,Dead
+429.17,4,Coal,Dead
+448.15,3,Coal,Dead
+305.16,3,Limestone,Dead
+306.18,8,Limestone,Dead
+317.11,2,Limestone,Dead
+317.12,3,Limestone,Dead
+321.13,2,Limestone,Dead
+348.99,4,Limestone,Dead
+349.18,4,Limestone,Dead
+350.99,3,Limestone,Dead
+364.96,6,Limestone,Dead
+365.1,6,Limestone,Dead
+365.11,9,Limestone,Dead
+365.16,10,Limestone,Dead
+365.28,9,Limestone,Dead
+366.96,3,Limestone,Dead
+369.23,1,Limestone,Dead
+381.08,2,Limestone,Dead
+384.22,9,Limestone,Dead
+385.23,2,Limestone,Dead
+386.23,4,Limestone,Dead
+393.21,3,Limestone,Dead
+402.23,7,Limestone,Dead
+409.18,3,Limestone,Dead
+419.28,4,Limestone,Dead
+435.25,2,Limestone,Dead
+437.24,3,Limestone,Dead
+453.21,3,Limestone,Dead
+458.35,9,Limestone,Dead
+463.3,3,Limestone,Dead
+464.31,1,Limestone,Dead
+479.28,1,Limestone,Dead
+480.28,2,Limestone,Dead
+481.26,3,Limestone,Dead
+485.2,6,Limestone,Dead
+487.2,5,Limestone,Dead
+497.24,3,Limestone,Dead
+305.16,6,Granite,Dead
+318.91,16,Granite,Dead
+325.18,19,Granite,Dead
+327.95,13,Granite,Dead
+328.01,2,Granite,Dead
+328.94,4,Granite,Dead
+335.92,6,Granite,Dead
+336.92,8,Granite,Dead
+345.96,11,Granite,Dead
+346.95,11,Granite,Dead
+348.99,10,Granite,Dead
+350.99,17,Granite,Dead
+352.98,18,Granite,Dead
+379.93,11,Granite,Dead
+380.93,15,Granite,Dead
+393.08,6,Granite,Dead
+393.93,8,Granite,Dead
+394.93,9,Granite,Dead
+467.1,4,Granite,Dead
+313.2,5,Quartz,Dead
+313.21,5,Quartz,Dead
+341.2,7,Quartz,Dead
+341.24,5,Quartz,Dead
+369.23,8,Quartz,Dead
+395.28,9,Quartz,Dead
+448.15,7,Quartz,Dead
+491.3,10,Ala_Arg,Abiotic
+492.3,15,Ala_Arg,Abiotic
+332.33,20,Ecoli,Biological
+367.06,20,Ecoli,Biological
+367.11,20,Ecoli,Biological
+403.29,20,Ecoli,Biological
+406.21,20,Ecoli,Biological
+494.77,21,Ecoli,Biological
+332.22,22,Ecoli,Biological
+318.16,23,Ecoli,Biological
+414.2,23,Ecoli,Biological
+336.25,24,Ecoli,Biological
+453.21,24,Ecoli,Biological
+441.29,25,Ecoli,Biological
+338.16,26,Ecoli,Biological
+385.08,26,Ecoli,Biological
+414.27,26,Ecoli,Biological
+482.26,26,Ecoli,Biological
+309.11,27,Ecoli,Biological
+439.2,27,Ecoli,Biological
+359.1,28,Ecoli,Biological
+438.24,28,Ecoli,Biological
+320.09,29,Ecoli,Biological
+320.25,29,Ecoli,Biological
+488.27,29,Ecoli,Biological
+353.27,30,Ecoli,Biological
+320.22,31,Ecoli,Biological
+320.11,32,Ecoli,Biological
+349.99,32,Ecoli,Biological
+373.16,32,Ecoli,Biological
+380.14,34,Ecoli,Biological
+425.27,34,Ecoli,Biological
+437.36,40,Ecoli,Biological
+360.32,41,Ecoli,Biological
+369.12,46,Ecoli,Biological
+370.25,47,Ecoli,Biological
+393.08,49,Ecoli,Biological
+306.16,50,Ecoli,Biological
+384.09,50,Ecoli,Biological
+318.24,51,Ecoli,Biological
+395.27,51,Ecoli,Biological
+384.7,52,Ecoli,Biological
+373.14,58,Ecoli,Biological
+472.76,60,Ecoli,Biological
+480.24,61,Ecoli,Biological
+497.23,64,Ecoli,Biological
+436.21,74,Ecoli,Biological
+304.25,10,Urinary Peptides,Biological
+309.2,29,Urinary Peptides,Biological
+322.08,19,Urinary Peptides,Biological
+327.01,1,Urinary Peptides,Biological
+329,1,Urinary Peptides,Biological
+329.01,1,Urinary Peptides,Biological
+331,3,Urinary Peptides,Biological
+331.15,4,Urinary Peptides,Biological
+344.05,53,Urinary Peptides,Biological
+355.07,4,Urinary Peptides,Biological
+355.2,6,Urinary Peptides,Biological
+362.06,49,Urinary Peptides,Biological
+371.1,6,Urinary Peptides,Biological
+372.1,13,Urinary Peptides,Biological
+377.15,24,Urinary Peptides,Biological
+393.12,19,Urinary Peptides,Biological
+393.13,21,Urinary Peptides,Biological
+407.03,58,Urinary Peptides,Biological
+423.01,41,Urinary Peptides,Biological
+426.34,8,Urinary Peptides,Biological
+429.09,8,Urinary Peptides,Biological
+432.28,5,Urinary Peptides,Biological
+440.36,6,Urinary Peptides,Biological
+445.12,6,Urinary Peptides,Biological
+446.12,20,Urinary Peptides,Biological
+447.12,23,Urinary Peptides,Biological
+459.28,6,Urinary Peptides,Biological
+470.37,7,Urinary Peptides,Biological
+476.3,4,Urinary Peptides,Biological
+476.31,4,Urinary Peptides,Biological
+484.38,10,Urinary Peptides,Biological
+487.21,33,Urinary Peptides,Biological
+304.3,3,Antartic Dust,??
+313.2,5,Antartic Dust,??
+313.21,5,Antartic Dust,??
+326.38,5,Antartic Dust,??
+341.2,14,Antartic Dust,??
+379.32,3,Antartic Dust,??
+380.32,24,Antartic Dust,??
+395.28,8,Antartic Dust,??
+309.2,16,MeOH Control,Abiotic
+311.16,8,MeOH Control,Abiotic
+327.01,1,MeOH Control,Abiotic
+329,1,MeOH Control,Abiotic
+329.01,11,MeOH Control,Abiotic
+331,3,MeOH Control,Abiotic
+355.07,3,MeOH Control,Abiotic
+371.1,10,MeOH Control,Abiotic
+409.16,16,MeOH Control,Abiotic
+411.2,12,MeOH Control,Abiotic
+425.23,5,MeOH Control,Abiotic
+426.17,16,MeOH Control,Abiotic
+427.17,14,MeOH Control,Abiotic
+431.18,18,MeOH Control,Abiotic
+433.19,2,MeOH Control,Abiotic
+445.12,8,MeOH Control,Abiotic
+463.27,4,GlyArg,Abiotic
+464.27,8,GlyArg,Abiotic
+309.16,12,Beer,Biological
+309.17,17,Beer,Biological
+316.13,19,Beer,Biological
+316.14,21,Beer,Biological
+365.1,9,Beer,Biological
+365.11,9,Beer,Biological
+381.08,21,Beer,Biological
+382.08,4,Beer,Biological
+425.22,5,Beer,Biological
+425.23,9,Beer,Biological
+426.23,13,Beer,Biological
+441.2,62,Beer,Biological
+471.22,83,Beer,Biological
+499.22,25,Beer,Biological
+499.23,13,Beer,Biological
+327.01,1,MU_15,Abiotic
+329,1,MU_15,Abiotic
+329.01,1,MU_15,Abiotic
+331,1,MU_15,Abiotic
+371.1,10,MU_15,Abiotic
+402.23,16,MU_15,Abiotic
+462.15,12,MU_15,Abiotic
+327.01,22,Yeast,Biological
+329,8,Yeast,Biological
+355.07,48,Yeast,Biological
+365.1,2,Yeast,Biological
+365.11,2,Yeast,Biological
+366.11,6,Yeast,Biological
+371.1,39,Yeast,Biological
+381.08,2,Yeast,Biological
+382.08,11,Yeast,Biological
+383.07,20,Yeast,Biological
+383.08,21,Yeast,Biological
+301.1,9,Yeast_200,Dead
+313.1,8,Yeast_200,Dead
+327.01,2,Yeast_200,Dead
+329,7,Yeast_200,Dead
+329.01,1,Yeast_200,Dead
+347.09,15,Yeast_200,Dead
+355.07,8,Yeast_200,Dead
+365.1,3,Yeast_200,Dead
+365.11,3,Yeast_200,Dead
+371.1,6,Yeast_200,Dead
+409.06,14,Yeast_200,Dead
+445.12,10,Yeast_200,Dead
+301.1,13,Yeast_400,Dead
+323.08,6,Yeast_400,Dead
+327.01,2,Yeast_400,Dead
+329.01,2,Yeast_400,Dead
+335.08,4,Yeast_400,Dead
+348.99,11,Yeast_400,Dead
+350.99,9,Yeast_400,Dead
+351.05,3,Yeast_400,Dead
+365.1,5,Yeast_400,Dead
+365.11,9,Yeast_400,Dead
+381.08,2,Yeast_400,Dead
+385.12,1,Yeast_400,Dead
+393.08,10,Yeast_400,Dead
+409.06,10,Yeast_400,Dead
+425.14,2,Yeast_400,Dead
+445.12,1,Yeast_400,Dead
+301.14,5,Aberarie 0y,Biological
+301.17,4,Aberarie 0y,Biological
+303.15,28,Aberarie 0y,Biological
+305.14,8,Aberarie 0y,Biological
+305.24,8,Aberarie 0y,Biological
+306.25,5,Aberarie 0y,Biological
+307.26,12,Aberarie 0y,Biological
+311.19,6,Aberarie 0y,Biological
+313.17,4,Aberarie 0y,Biological
+315.18,5,Aberarie 0y,Biological
+317.15,16,Aberarie 0y,Biological
+317.16,11,Aberarie 0y,Biological
+319.14,23,Aberarie 0y,Biological
+323.26,3,Aberarie 0y,Biological
+329.16,12,Aberarie 0y,Biological
+333.17,12,Aberarie 0y,Biological
+333.28,4,Aberarie 0y,Biological
+334.18,4,Aberarie 0y,Biological
+337.23,9,Aberarie 0y,Biological
+345.18,10,Aberarie 0y,Biological
+345.19,12,Aberarie 0y,Biological
+347.17,13,Aberarie 0y,Biological
+347.26,10,Aberarie 0y,Biological
+349.18,8,Aberarie 0y,Biological
+352.98,3,Aberarie 0y,Biological
+357.16,9,Aberarie 0y,Biological
+357.19,12,Aberarie 0y,Biological
+361.2,4,Aberarie 0y,Biological
+363.13,4,Aberarie 0y,Biological
+363.21,6,Aberarie 0y,Biological
+365.16,6,Aberarie 0y,Biological
+373.22,11,Aberarie 0y,Biological
+375.18,19,Aberarie 0y,Biological
+381.26,9,Aberarie 0y,Biological
+383.14,4,Aberarie 0y,Biological
+391.16,7,Aberarie 0y,Biological
+393.21,6,Aberarie 0y,Biological
+393.3,2,Aberarie 0y,Biological
+401.22,8,Aberarie 0y,Biological
+403.2,21,Aberarie 0y,Biological
+411.28,8,Aberarie 0y,Biological
+419.19,12,Aberarie 0y,Biological
+419.2,10,Aberarie 0y,Biological
+429.25,11,Aberarie 0y,Biological
+437.24,4,Aberarie 0y,Biological
+439.31,5,Aberarie 0y,Biological
+457.28,14,Aberarie 0y,Biological
+463.3,4,Aberarie 0y,Biological
+499.33,11,Aberarie 0y,Biological
+303.08,1,Glengoyne 10y,Biological
+305.06,5,Glengoyne 10y,Biological
+309.07,3,Glengoyne 10y,Biological
+309.13,2,Glengoyne 10y,Biological
+317.11,2,Glengoyne 10y,Biological
+322.06,2,Glengoyne 10y,Biological
+327.05,2,Glengoyne 10y,Biological
+347.09,3,Glengoyne 10y,Biological
+349.09,3,Glengoyne 10y,Biological
+363.07,3,Glengoyne 10y,Biological
+364.96,4,Glengoyne 10y,Biological
+365.16,4,Glengoyne 10y,Biological
+366.96,3,Glengoyne 10y,Biological
+367.19,3,Glengoyne 10y,Biological
+369.22,2,Glengoyne 10y,Biological
+381.08,2,Glengoyne 10y,Biological
+383.28,2,Glengoyne 10y,Biological
+385.2,2,Glengoyne 10y,Biological
+387.12,3,Glengoyne 10y,Biological
+397.23,3,Glengoyne 10y,Biological
+399.25,1,Glengoyne 10y,Biological
+401.16,6,Glengoyne 10y,Biological
+417.09,4,Glengoyne 10y,Biological
+417.13,6,Glengoyne 10y,Biological
+417.15,5,Glengoyne 10y,Biological
+418.13,3,Glengoyne 10y,Biological
+431.17,1,Glengoyne 10y,Biological
+435.13,2,Glengoyne 10y,Biological
+443.11,1,Glengoyne 10y,Biological
+443.15,1,Glengoyne 10y,Biological
+443.26,1,Glengoyne 10y,Biological
+444.17,1,Glengoyne 10y,Biological
+457.13,1,Glengoyne 10y,Biological
+459.11,1,Glengoyne 10y,Biological
+459.12,1,Glengoyne 10y,Biological
+459.24,2,Glengoyne 10y,Biological
+481.13,1,Glengoyne 10y,Biological
+497.24,1,Glengoyne 10y,Biological
+305.06,6,Glengoyne 18y,Biological
+305.08,6,Glengoyne 18y,Biological
+309.07,3,Glengoyne 18y,Biological
+316.09,2,Glengoyne 18y,Biological
+321.06,3,Glengoyne 18y,Biological
+321.07,2,Glengoyne 18y,Biological
+325.07,2,Glengoyne 18y,Biological
+325.1,2,Glengoyne 18y,Biological
+325.18,2,Glengoyne 18y,Biological
+327.05,6,Glengoyne 18y,Biological
+327.08,9,Glengoyne 18y,Biological
+329.1,1,Glengoyne 18y,Biological
+335.07,2,Glengoyne 18y,Biological
+347.09,6,Glengoyne 18y,Biological
+349.09,2,Glengoyne 18y,Biological
+351.07,2,Glengoyne 18y,Biological
+353.21,6,Glengoyne 18y,Biological
+363.07,4,Glengoyne 18y,Biological
+363.1,2,Glengoyne 18y,Biological
+363.11,3,Glengoyne 18y,Biological
+365.08,7,Glengoyne 18y,Biological
+365.16,4,Glengoyne 18y,Biological
+381.08,13,Glengoyne 18y,Biological
+383.11,4,Glengoyne 18y,Biological
+383.28,3,Glengoyne 18y,Biological
+385.2,2,Glengoyne 18y,Biological
+387.12,8,Glengoyne 18y,Biological
+397.09,3,Glengoyne 18y,Biological
+397.23,4,Glengoyne 18y,Biological
+398.24,3,Glengoyne 18y,Biological
+399.1,1,Glengoyne 18y,Biological
+403.16,3,Glengoyne 18y,Biological
+407.09,2,Glengoyne 18y,Biological
+409.11,6,Glengoyne 18y,Biological
+411.14,2,Glengoyne 18y,Biological
+417.09,9,Glengoyne 18y,Biological
+431.15,4,Glengoyne 18y,Biological
+431.17,6,Glengoyne 18y,Biological
+432.17,4,Glengoyne 18y,Biological
+491.19,7,Glengoyne 18y,Biological
+381.1,12,Glengoyne 25y,Biological
+381.26,15,Glengoyne 25y,Biological
+383.12,3,Glengoyne 25y,Biological
+387.12,3,Glengoyne 25y,Biological
+409.13,5,Glengoyne 25y,Biological
+411.15,3,Glengoyne 25y,Biological
+413.23,5,Glengoyne 25y,Biological
+417.13,7,Glengoyne 25y,Biological
+425.29,4,Glengoyne 25y,Biological
+429.13,3,Glengoyne 25y,Biological
+429.15,4,Glengoyne 25y,Biological
+431.17,2,Glengoyne 25y,Biological
+435.15,3,Glengoyne 25y,Biological
+441.13,5,Glengoyne 25y,Biological
+441.15,1,Glengoyne 25y,Biological
+441.26,2,Glengoyne 25y,Biological
+443.17,1,Glengoyne 25y,Biological
+444.17,3,Glengoyne 25y,Biological
+447.11,13,Glengoyne 25y,Biological
+447.14,1,Glengoyne 25y,Biological
+448.14,1,Glengoyne 25y,Biological
+451.06,14,Glengoyne 25y,Biological
+453.1,3,Glengoyne 25y,Biological
+453.21,6,Glengoyne 25y,Biological
+458.13,2,Glengoyne 25y,Biological
+459.1,5,Glengoyne 25y,Biological
+459.11,2,Glengoyne 25y,Biological
+459.14,2,Glengoyne 25y,Biological
+460.14,4,Glengoyne 25y,Biological
+473.12,3,Glengoyne 25y,Biological
+481.13,4,Glengoyne 25y,Biological
+491.13,3,Glengoyne 25y,Biological
+491.19,5,Glengoyne 25y,Biological
+303.15,13,Ardberg 10y,Biological
+305.08,9,Ardberg 10y,Biological
+305.1,15,Ardberg 10y,Biological
+305.14,13,Ardberg 10y,Biological
+305.24,12,Ardberg 10y,Biological
+305.25,9,Ardberg 10y,Biological
+307.07,13,Ardberg 10y,Biological
+309.13,6,Ardberg 10y,Biological
+311.09,3,Ardberg 10y,Biological
+317.11,9,Ardberg 10y,Biological
+319.1,16,Ardberg 10y,Biological
+320.1,9,Ardberg 10y,Biological
+321.06,11,Ardberg 10y,Biological
+321.24,24,Ardberg 10y,Biological
+333.17,14,Ardberg 10y,Biological
+345.19,10,Ardberg 10y,Biological
+349.09,11,Ardberg 10y,Biological
+349.18,3,Ardberg 10y,Biological
+353.23,2,Ardberg 10y,Biological
+365.16,12,Ardberg 10y,Biological
+366.16,12,Ardberg 10y,Biological
+366.96,7,Ardberg 10y,Biological
+375.17,11,Ardberg 10y,Biological
+379.25,13,Ardberg 10y,Biological
+381.26,7,Ardberg 10y,Biological
+382.26,4,Ardberg 10y,Biological
+389.18,11,Ardberg 10y,Biological
+391.16,12,Ardberg 10y,Biological
+395.22,6,Ardberg 10y,Biological
+409.18,2,Ardberg 10y,Biological
+409.29,3,Ardberg 10y,Biological
+413.15,11,Ardberg 10y,Biological
+429.13,4,Ardberg 10y,Biological
+432.17,3,Ardberg 10y,Biological
+443.17,5,Ardberg 10y,Biological
+444.17,2,Ardberg 10y,Biological
+453.21,2,Ardberg 10y,Biological
+457.13,1,Ardberg 10y,Biological
+497.24,2,Ardberg 10y,Biological
+327.01,1,Sandstone,Dead
+329,1,Sandstone,Dead
+355.07,5,Sandstone,Dead
+371.1,6,Sandstone,Dead
+445.12,12,Sandstone,Dead
+320.092,3,Formose Reaction Mixture,Abiotic
+320.24,4,Formose Reaction Mixture,Abiotic
+332.125,10,Formose Reaction Mixture,Abiotic
+340.257,14,Formose Reaction Mixture,Abiotic
+340.758,12,Formose Reaction Mixture,Abiotic
+343.087,11,Formose Reaction Mixture,Abiotic
+355.067,4,Formose Reaction Mixture,Abiotic
+356.07,5,Formose Reaction Mixture,Abiotic
+371.125,3,Formose Reaction Mixture,Abiotic
+372.128,3,Formose Reaction Mixture,Abiotic
+377.083,6,Formose Reaction Mixture,Abiotic
+399.168,4,Formose Reaction Mixture,Abiotic
+318.2,10,Formose Mineral Mixture,Abiotic
+318.278,10,Formose Mineral Mixture,Abiotic
+318.298,9,Formose Mineral Mixture,Abiotic
+327.075,1,Formose Mineral Mixture,Abiotic
+339.751,13,Formose Mineral Mixture,Abiotic
+355.244,3,Formose Mineral Mixture,Abiotic
+355.745,4,Formose Mineral Mixture,Abiotic
+356.753,4,Formose Mineral Mixture,Abiotic
+371.862,3,Formose Mineral Mixture,Abiotic
+372.246,3,Formose Mineral Mixture,Abiotic
+374.077,3,Formose Mineral Mixture,Abiotic
+374.098,3,Formose Mineral Mixture,Abiotic
+388.125,5,Formose Mineral Mixture,Abiotic
+445.116,8,Formose Mineral Mixture,Abiotic
+855.86,71,Taxol,Biological
+306.138,28,Formose Recursive Cycle,Biological
+320.24,4,Formose Recursive Cycle,Biological
+325.115,2,Formose Recursive Cycle,Biological
+325.12,2,Formose Recursive Cycle,Biological
+327,1,Formose Recursive Cycle,Biological
+332.16,8,Formose Recursive Cycle,Biological
+355.067,4,Formose Recursive Cycle,Biological
+356.061,8,Formose Recursive Cycle,Biological
+371.12,3,Formose Recursive Cycle,Biological
+371.125,3,Formose Recursive Cycle,Biological
+372.153,10,Formose Recursive Cycle,Biological
+377.077,9,Formose Recursive Cycle,Biological
+496.96,14,Aeromonas veronii,Biological
+494.38,5,Aeromonas veronii,Biological
+493.3,4,Aeromonas veronii,Biological
+493.02,5,Aeromonas veronii,Biological
+492.9,21,Aeromonas veronii,Biological
+492.37,5,Aeromonas veronii,Biological
+492.32,32,Aeromonas veronii,Biological
+492.15,3,Aeromonas veronii,Biological
+489.3,15,Aeromonas veronii,Biological
+489.22,10,Aeromonas veronii,Biological
+488.4,4,Aeromonas veronii,Biological
+487.29,8,Aeromonas veronii,Biological
+484.18,8,Aeromonas veronii,Biological
+481.92,45,Aeromonas veronii,Biological
+480.93,8,Aeromonas veronii,Biological
+480.83,11,Aeromonas veronii,Biological
+480.82,13,Aeromonas veronii,Biological
+480.79,10,Aeromonas veronii,Biological
+480.31,4,Aeromonas veronii,Biological
+480.3,3,Aeromonas veronii,Biological
+480.18,22,Aeromonas veronii,Biological
+479.18,6,Aeromonas veronii,Biological
+478.23,3,Aeromonas veronii,Biological
+478.18,5,Aeromonas veronii,Biological
+476.3,5,Aeromonas veronii,Biological
+476.18,7,Aeromonas veronii,Biological
+475.29,14,Aeromonas veronii,Biological
+474.26,7,Aeromonas veronii,Biological
+474.25,7,Aeromonas veronii,Biological
+473.46,7,Aeromonas veronii,Biological
+473.43,4,Aeromonas veronii,Biological
+472.99,20,Aeromonas veronii,Biological
+472.33,11,Aeromonas veronii,Biological
+470.32,3,Aeromonas veronii,Biological
+469.98,5,Aeromonas veronii,Biological
+468.39,34,Aeromonas veronii,Biological
+468.38,11,Aeromonas veronii,Biological
+467.49,7,Aeromonas veronii,Biological
+467.28,6,Aeromonas veronii,Biological
+467.15,4,Aeromonas veronii,Biological
+466.37,3,Aeromonas veronii,Biological
+465.26,15,Aeromonas veronii,Biological
+465.1,10,Aeromonas veronii,Biological
+465.09,3,Aeromonas veronii,Biological
+464.37,14,Aeromonas veronii,Biological
+464.35,4,Aeromonas veronii,Biological
+464.27,5,Aeromonas veronii,Biological
+462.88,11,Aeromonas veronii,Biological
+462.87,13,Aeromonas veronii,Biological
+462.41,5,Aeromonas veronii,Biological
+462.14,3,Aeromonas veronii,Biological
+461.66,17,Aeromonas veronii,Biological
+460.92,11,Aeromonas veronii,Biological
+460.29,26,Aeromonas veronii,Biological
+460.27,12,Aeromonas veronii,Biological
+458.94,16,Aeromonas veronii,Biological
+458.84,8,Aeromonas veronii,Biological
+458.34,25,Aeromonas veronii,Biological
+458.09,5,Aeromonas veronii,Biological
+456.96,3,Aeromonas veronii,Biological
+454.29,15,Aeromonas veronii,Biological
+453.99,3,Aeromonas veronii,Biological
+453.98,3,Aeromonas veronii,Biological
+452.94,4,Aeromonas veronii,Biological
+452.27,6,Aeromonas veronii,Biological
+451.9,12,Aeromonas veronii,Biological
+451.16,4,Aeromonas veronii,Biological
+449.39,3,Aeromonas veronii,Biological
+449.15,3,Aeromonas veronii,Biological
+449.14,3,Aeromonas veronii,Biological
+448.32,8,Aeromonas veronii,Biological
+448.24,7,Aeromonas veronii,Biological
+448.23,20,Aeromonas veronii,Biological
+448,6,Aeromonas veronii,Biological
+447.38,4,Aeromonas veronii,Biological
+447.25,4,Aeromonas veronii,Biological
+445.4,6,Aeromonas veronii,Biological
+445.19,13,Aeromonas veronii,Biological
+445.11,9,Aeromonas veronii,Biological
+445.03,3,Aeromonas veronii,Biological
+443.09,5,Aeromonas veronii,Biological
+442.29,5,Aeromonas veronii,Biological
+442.12,8,Aeromonas veronii,Biological
+441.37,3,Aeromonas veronii,Biological
+440.28,3,Aeromonas veronii,Biological
+439.24,3,Aeromonas veronii,Biological
+438.91,11,Aeromonas veronii,Biological
+436.86,6,Aeromonas veronii,Biological
+436.15,19,Aeromonas veronii,Biological
+435.12,22,Aeromonas veronii,Biological
+434.17,5,Aeromonas veronii,Biological
+433,6,Aeromonas veronii,Biological
+432.24,8,Aeromonas veronii,Biological
+432.23,13,Aeromonas veronii,Biological
+432.01,8,Aeromonas veronii,Biological
+431.23,11,Aeromonas veronii,Biological
+428.06,5,Aeromonas veronii,Biological
+428.02,4,Aeromonas veronii,Biological
+427.14,5,Aeromonas veronii,Biological
+426.26,5,Aeromonas veronii,Biological
+426.04,8,Aeromonas veronii,Biological
+426.02,3,Aeromonas veronii,Biological
+424.36,18,Aeromonas veronii,Biological
+424.24,5,Aeromonas veronii,Biological
+423.35,5,Aeromonas veronii,Biological
+422.92,7,Aeromonas veronii,Biological
+422.88,11,Aeromonas veronii,Biological
+422.21,3,Aeromonas veronii,Biological
+421.36,11,Aeromonas veronii,Biological
+421.1,5,Aeromonas veronii,Biological
+420.37,4,Aeromonas veronii,Biological
+420.36,6,Aeromonas veronii,Biological
+420.16,5,Aeromonas veronii,Biological
+420.13,4,Aeromonas veronii,Biological
+419.31,6,Aeromonas veronii,Biological
+419.25,5,Aeromonas veronii,Biological
+418.18,10,Aeromonas veronii,Biological
+417.21,6,Aeromonas veronii,Biological
+417.11,21,Aeromonas veronii,Biological
+416.37,4,Aeromonas veronii,Biological
+416.21,5,Aeromonas veronii,Biological
+415.21,4,Aeromonas veronii,Biological
+415.18,3,Aeromonas veronii,Biological
+414.95,15,Aeromonas veronii,Biological
+414.88,5,Aeromonas veronii,Biological
+414.75,4,Aeromonas veronii,Biological
+413.25,31,Aeromonas veronii,Biological
+413.19,21,Aeromonas veronii,Biological
+410.9,13,Aeromonas veronii,Biological
+409.34,3,Aeromonas veronii,Biological
+408.35,4,Aeromonas veronii,Biological
+407.23,5,Aeromonas veronii,Biological
+406.14,9,Aeromonas veronii,Biological
+405.42,3,Aeromonas veronii,Biological
+405.37,3,Aeromonas veronii,Biological
+405.36,6,Aeromonas veronii,Biological
+405.2,3,Aeromonas veronii,Biological
+405.01,3,Aeromonas veronii,Biological
+405,8,Aeromonas veronii,Biological
+404.37,3,Aeromonas veronii,Biological
+404.21,10,Aeromonas veronii,Biological
+404.2,16,Aeromonas veronii,Biological
+404.14,7,Aeromonas veronii,Biological
+404.02,16,Aeromonas veronii,Biological
+403.24,3,Aeromonas veronii,Biological
+402.23,10,Aeromonas veronii,Biological
+402.14,9,Aeromonas veronii,Biological
+402,11,Aeromonas veronii,Biological
+399.95,23,Aeromonas veronii,Biological
+399.34,3,Aeromonas veronii,Biological
+398.96,7,Aeromonas veronii,Biological
+398.92,6,Aeromonas veronii,Biological
+398.24,10,Aeromonas veronii,Biological
+398.23,4,Aeromonas veronii,Biological
+397.2,3,Aeromonas veronii,Biological
+396.19,10,Aeromonas veronii,Biological
+396.12,13,Aeromonas veronii,Biological
+395.24,14,Aeromonas veronii,Biological
+395.21,4,Aeromonas veronii,Biological
+395.12,4,Aeromonas veronii,Biological
+394.08,3,Aeromonas veronii,Biological
+393.28,3,Aeromonas veronii,Biological
+393.12,8,Aeromonas veronii,Biological
+393.08,6,Aeromonas veronii,Biological
+392.33,4,Aeromonas veronii,Biological
+392.23,7,Aeromonas veronii,Biological
+392.22,6,Aeromonas veronii,Biological
+391.32,6,Aeromonas veronii,Biological
+391.31,7,Aeromonas veronii,Biological
+391.28,3,Aeromonas veronii,Biological
+391.1,5,Aeromonas veronii,Biological
+390.99,8,Aeromonas veronii,Biological
+390.15,3,Aeromonas veronii,Biological
+389.37,3,Aeromonas veronii,Biological
+389.33,5,Aeromonas veronii,Biological
+389.21,13,Aeromonas veronii,Biological
+389.12,8,Aeromonas veronii,Biological
+389.02,4,Aeromonas veronii,Biological
+388.34,3,Aeromonas veronii,Biological
+388.25,5,Aeromonas veronii,Biological
+388.22,8,Aeromonas veronii,Biological
+388.18,11,Aeromonas veronii,Biological
+388.16,11,Aeromonas veronii,Biological
+387.18,11,Aeromonas veronii,Biological
+386.4,5,Aeromonas veronii,Biological
+386.39,3,Aeromonas veronii,Biological
+386.01,4,Aeromonas veronii,Biological
+385.3,3,Aeromonas veronii,Biological
+384.11,3,Aeromonas veronii,Biological
+383.29,4,Aeromonas veronii,Biological
+383.19,3,Aeromonas veronii,Biological
+383.18,8,Aeromonas veronii,Biological
+382.29,6,Aeromonas veronii,Biological
+382.06,4,Aeromonas veronii,Biological
+381.31,20,Aeromonas veronii,Biological
+380.87,9,Aeromonas veronii,Biological
+380.33,9,Aeromonas veronii,Biological
+380.16,3,Aeromonas veronii,Biological
+379.24,3,Aeromonas veronii,Biological
+379.16,11,Aeromonas veronii,Biological
+377.15,6,Aeromonas veronii,Biological
+376.94,4,Aeromonas veronii,Biological
+376.34,3,Aeromonas veronii,Biological
+375.18,6,Aeromonas veronii,Biological
+375.1,5,Aeromonas veronii,Biological
+374.96,3,Aeromonas veronii,Biological
+374.25,3,Aeromonas veronii,Biological
+374.22,4,Aeromonas veronii,Biological
+374.19,3,Aeromonas veronii,Biological
+373.3,11,Aeromonas veronii,Biological
+373.12,11,Aeromonas veronii,Biological
+372.2,4,Aeromonas veronii,Biological
+372.14,3,Aeromonas veronii,Biological
+372.06,3,Aeromonas veronii,Biological
+371.29,10,Aeromonas veronii,Biological
+371.22,19,Aeromonas veronii,Biological
+371.16,3,Aeromonas veronii,Biological
+371.15,4,Aeromonas veronii,Biological
+371.14,16,Aeromonas veronii,Biological
+370.33,14,Aeromonas veronii,Biological
+369.17,8,Aeromonas veronii,Biological
+368.28,6,Aeromonas veronii,Biological
+368.27,3,Aeromonas veronii,Biological
+368.12,5,Aeromonas veronii,Biological
+367.18,7,Aeromonas veronii,Biological
+366.97,13,Aeromonas veronii,Biological
+366.14,3,Aeromonas veronii,Biological
+366.09,5,Aeromonas veronii,Biological
+364.33,3,Aeromonas veronii,Biological
+363.31,3,Aeromonas veronii,Biological
+363.22,5,Aeromonas veronii,Biological
+361.34,4,Aeromonas veronii,Biological
+361.3,7,Aeromonas veronii,Biological
+361.27,4,Aeromonas veronii,Biological
+361.24,3,Aeromonas veronii,Biological
+360.31,3,Aeromonas veronii,Biological
+360.3,3,Aeromonas veronii,Biological
+360.15,3,Aeromonas veronii,Biological
+360.05,4,Aeromonas veronii,Biological
+359.33,3,Aeromonas veronii,Biological
+359.32,3,Aeromonas veronii,Biological
+359.14,6,Aeromonas veronii,Biological
+359.12,4,Aeromonas veronii,Biological
+358.26,7,Aeromonas veronii,Biological
+358.13,5,Aeromonas veronii,Biological
+357.19,8,Aeromonas veronii,Biological
+356.95,7,Aeromonas veronii,Biological
+356.28,5,Aeromonas veronii,Biological
+356.06,7,Aeromonas veronii,Biological
+355.93,5,Aeromonas veronii,Biological
+355.14,3,Aeromonas veronii,Biological
+354.26,11,Aeromonas veronii,Biological
+354.11,10,Aeromonas veronii,Biological
+353.31,3,Aeromonas veronii,Biological
+353.28,11,Aeromonas veronii,Biological
+352.32,55,Aeromonas veronii,Biological
+352.04,9,Aeromonas veronii,Biological
+351.31,5,Aeromonas veronii,Biological
+351.16,3,Aeromonas veronii,Biological
+351.03,4,Aeromonas veronii,Biological
+351,4,Aeromonas veronii,Biological
+350.29,3,Aeromonas veronii,Biological
+350.06,5,Aeromonas veronii,Biological
+349.2,3,Aeromonas veronii,Biological
+348.17,3,Aeromonas veronii,Biological
+348.08,3,Aeromonas veronii,Biological
+348.07,4,Aeromonas veronii,Biological
+348.06,11,Aeromonas veronii,Biological
+347.18,3,Aeromonas veronii,Biological
+346.29,3,Aeromonas veronii,Biological
+346.05,3,Aeromonas veronii,Biological
+345.31,4,Aeromonas veronii,Biological
+345.22,3,Aeromonas veronii,Biological
+345.08,4,Aeromonas veronii,Biological
+344.25,10,Aeromonas veronii,Biological
+344.24,21,Aeromonas veronii,Biological
+344.21,6,Aeromonas veronii,Biological
+344.2,5,Aeromonas veronii,Biological
+344.13,16,Aeromonas veronii,Biological
+344.07,13,Aeromonas veronii,Biological
+343.33,3,Aeromonas veronii,Biological
+343.14,17,Aeromonas veronii,Biological
+342.37,4,Aeromonas veronii,Biological
+342.34,6,Aeromonas veronii,Biological
+342.18,13,Aeromonas veronii,Biological
+342.13,13,Aeromonas veronii,Biological
+342.08,4,Aeromonas veronii,Biological
+342.03,11,Aeromonas veronii,Biological
+341.28,5,Aeromonas veronii,Biological
+341.23,6,Aeromonas veronii,Biological
+341.14,6,Aeromonas veronii,Biological
+341.1,3,Aeromonas veronii,Biological
+341,4,Aeromonas veronii,Biological
+340.25,8,Aeromonas veronii,Biological
+340.05,3,Aeromonas veronii,Biological
+339.29,16,Aeromonas veronii,Biological
+338.34,4,Aeromonas veronii,Biological
+338.07,4,Aeromonas veronii,Biological
+337.23,5,Aeromonas veronii,Biological
+337.1,7,Aeromonas veronii,Biological
+337.09,3,Aeromonas veronii,Biological
+337.08,4,Aeromonas veronii,Biological
+336.3,8,Aeromonas veronii,Biological
+336.27,5,Aeromonas veronii,Biological
+336.07,6,Aeromonas veronii,Biological
+336.05,4,Aeromonas veronii,Biological
+336.04,10,Aeromonas veronii,Biological
+334.23,3,Aeromonas veronii,Biological
+334.19,5,Aeromonas veronii,Biological
+334.16,11,Aeromonas veronii,Biological
+334.05,3,Aeromonas veronii,Biological
+333.31,6,Aeromonas veronii,Biological
+333.05,8,Aeromonas veronii,Biological
+332.33,6,Aeromonas veronii,Biological
+332.31,5,Aeromonas veronii,Biological
+332.23,21,Aeromonas veronii,Biological
+332.22,3,Aeromonas veronii,Biological
+332.18,9,Aeromonas veronii,Biological
+332.13,4,Aeromonas veronii,Biological
+332.06,4,Aeromonas veronii,Biological
+332.05,3,Aeromonas veronii,Biological
+331.29,11,Aeromonas veronii,Biological
+331.26,3,Aeromonas veronii,Biological
+331.2,3,Aeromonas veronii,Biological
+331.17,4,Aeromonas veronii,Biological
+331.13,3,Aeromonas veronii,Biological
+330.93,4,Aeromonas veronii,Biological
+330.23,5,Aeromonas veronii,Biological
+330.22,3,Aeromonas veronii,Biological
+330.2,17,Aeromonas veronii,Biological
+330.14,10,Aeromonas veronii,Biological
+330.05,4,Aeromonas veronii,Biological
+329.28,4,Aeromonas veronii,Biological
+329.18,3,Aeromonas veronii,Biological
+329.13,5,Aeromonas veronii,Biological
+329.12,6,Aeromonas veronii,Biological
+329.1,12,Aeromonas veronii,Biological
+329.09,3,Aeromonas veronii,Biological
+329.01,5,Aeromonas veronii,Biological
+328.16,3,Aeromonas veronii,Biological
+328.06,6,Aeromonas veronii,Biological
+328.03,7,Aeromonas veronii,Biological
+327.14,8,Aeromonas veronii,Biological
+327.01,3,Aeromonas veronii,Biological
+326.98,4,Aeromonas veronii,Biological
+326.24,4,Aeromonas veronii,Biological
+326.23,11,Aeromonas veronii,Biological
+326.11,13,Aeromonas veronii,Biological
+325.29,11,Aeromonas veronii,Biological
+325.24,26,Aeromonas veronii,Biological
+325.09,6,Aeromonas veronii,Biological
+324.21,7,Aeromonas veronii,Biological
+324.14,3,Aeromonas veronii,Biological
+324.11,5,Aeromonas veronii,Biological
+324.06,17,Aeromonas veronii,Biological
+323.28,4,Aeromonas veronii,Biological
+322.97,3,Aeromonas veronii,Biological
+322.26,3,Aeromonas veronii,Biological
+322.18,3,Aeromonas veronii,Biological
+322.05,4,Aeromonas veronii,Biological
+322.04,3,Aeromonas veronii,Biological
+321.17,12,Aeromonas veronii,Biological
+321.16,14,Aeromonas veronii,Biological
+321.06,4,Aeromonas veronii,Biological
+321.05,14,Aeromonas veronii,Biological
+320.28,3,Aeromonas veronii,Biological
+320.22,9,Aeromonas veronii,Biological
+320.2,5,Aeromonas veronii,Biological
+320.1,3,Aeromonas veronii,Biological
+319.22,3,Aeromonas veronii,Biological
+319.11,6,Aeromonas veronii,Biological
+319.06,3,Aeromonas veronii,Biological
+318.21,53,Aeromonas veronii,Biological
+318.17,4,Aeromonas veronii,Biological
+318.13,4,Aeromonas veronii,Biological
+317.31,7,Aeromonas veronii,Biological
+317.18,12,Aeromonas veronii,Biological
+317.11,6,Aeromonas veronii,Biological
+316.9,4,Aeromonas veronii,Biological
+316.22,7,Aeromonas veronii,Biological
+316.17,17,Aeromonas veronii,Biological
+315.3,5,Aeromonas veronii,Biological
+315.14,19,Aeromonas veronii,Biological
+315.13,14,Aeromonas veronii,Biological
+315.02,5,Aeromonas veronii,Biological
+314.26,5,Aeromonas veronii,Biological
+314.19,5,Aeromonas veronii,Biological
+314.18,5,Aeromonas veronii,Biological
+314.14,8,Aeromonas veronii,Biological
+314.13,7,Aeromonas veronii,Biological
+314.12,9,Aeromonas veronii,Biological
+314.11,5,Aeromonas veronii,Biological
+314.09,7,Aeromonas veronii,Biological
+314.07,5,Aeromonas veronii,Biological
+314.06,7,Aeromonas veronii,Biological
+313.98,5,Aeromonas veronii,Biological
+313.27,5,Aeromonas veronii,Biological
+313.2,8,Aeromonas veronii,Biological
+313.11,3,Aeromonas veronii,Biological
+313.05,8,Aeromonas veronii,Biological
+312.36,6,Aeromonas veronii,Biological
+312.21,4,Aeromonas veronii,Biological
+312.11,4,Aeromonas veronii,Biological
+311.26,13,Aeromonas veronii,Biological
+311.12,12,Aeromonas veronii,Biological
+311.09,9,Aeromonas veronii,Biological
+310.31,18,Aeromonas veronii,Biological
+310.26,3,Aeromonas veronii,Biological
+310.2,12,Aeromonas veronii,Biological
+310.19,7,Aeromonas veronii,Biological
+310.13,3,Aeromonas veronii,Biological
+309.13,7,Aeromonas veronii,Biological
+309.04,3,Aeromonas veronii,Biological
+308.27,4,Aeromonas veronii,Biological
+308.08,6,Aeromonas veronii,Biological
+307.22,8,Aeromonas veronii,Biological
+307.15,8,Aeromonas veronii,Biological
+307.11,8,Aeromonas veronii,Biological
+307.03,5,Aeromonas veronii,Biological
+306.08,3,Aeromonas veronii,Biological
+306.05,4,Aeromonas veronii,Biological
+305,3,Aeromonas veronii,Biological
+304.3,5,Aeromonas veronii,Biological
+304.28,8,Aeromonas veronii,Biological
+304.25,3,Aeromonas veronii,Biological
+304.2,12,Aeromonas veronii,Biological
+304.16,3,Aeromonas veronii,Biological
+304.15,4,Aeromonas veronii,Biological
+304.06,4,Aeromonas veronii,Biological
+304.04,5,Aeromonas veronii,Biological
+303.99,4,Aeromonas veronii,Biological
+303.18,3,Aeromonas veronii,Biological
+303.17,6,Aeromonas veronii,Biological
+303.15,6,Aeromonas veronii,Biological
+303.13,6,Aeromonas veronii,Biological
+303.12,5,Aeromonas veronii,Biological
+302.18,9,Aeromonas veronii,Biological
+301.38,15,Aeromonas veronii,Biological
+301.21,3,Aeromonas veronii,Biological
+300.22,6,Aeromonas veronii,Biological
+300.2,7,Aeromonas veronii,Biological
+300.09,5,Aeromonas veronii,Biological
+300.06,6,Aeromonas veronii,Biological
+352.32,55,Aeromonas veronii TOP15,Biological
+318.21,53,Aeromonas veronii TOP15,Biological
+481.92,45,Aeromonas veronii TOP15,Biological
+468.39,34,Aeromonas veronii TOP15,Biological
+492.32,32,Aeromonas veronii TOP15,Biological
+413.25,31,Aeromonas veronii TOP15,Biological
+460.29,26,Aeromonas veronii TOP15,Biological
+325.24,26,Aeromonas veronii TOP15,Biological
+458.34,25,Aeromonas veronii TOP15,Biological
+399.95,23,Aeromonas veronii TOP15,Biological
+480.18,22,Aeromonas veronii TOP15,Biological
+435.12,22,Aeromonas veronii TOP15,Biological
+492.9,21,Aeromonas veronii TOP15,Biological
+417.11,21,Aeromonas veronii TOP15,Biological
+413.19,21,Aeromonas veronii TOP15,Biological
+344.24,21,Aeromonas veronii TOP15,Biological
+254.82,4,Seawater,Biological
+254.99,6,Seawater,Biological
+255.99,11,Seawater,Biological
+256.82,3,Seawater,Biological
+256.98,3,Seawater,Biological
+257.98,4,Seawater,Biological
+258.28,1,Seawater,Biological
+258.31,1,Seawater,Biological
+258.82,4,Seawater,Biological
+258.98,4,Seawater,Biological
+259.46,24,Seawater,Biological
+260.46,58,Seawater,Biological
+260.96,39,Seawater,Biological
+265.02,6,Seawater,Biological
+266.02,9,Seawater,Biological
+267.01,6,Seawater,Biological
+267.02,6,Seawater,Biological
+267.17,1,Seawater,Biological
+268.01,10,Seawater,Biological
+268.95,12,Seawater,Biological
+270.32,2,Seawater,Biological
+270.95,11,Seawater,Biological
+270.97,11,Seawater,Biological
+271.97,31,Seawater,Biological
+272.97,20,Seawater,Biological
+280.1,1,Seawater,Biological
+281.98,61,Seawater,Biological
+283.03,19,Seawater,Biological
+283.26,1,Seawater,Biological
+285.33,1,Seawater,Biological
+285.44,11,Seawater,Biological
+286.96,27,Seawater,Biological
+287.96,26,Seawater,Biological
+288.98,11,Seawater,Biological
+290.79,1,Seawater,Biological
+290.85,1,Seawater,Biological
+292.78,2,Seawater,Biological
+293.96,37,Seawater,Biological
+296.78,5,Seawater,Biological
+296.95,17,Seawater,Biological
+297.95,20,Seawater,Biological
+300.82,2,Seawater,Biological
+302.81,2,Seawater,Biological
+307.31,5,Seawater,Biological
+309.97,5,Seawater,Biological
+310.97,7,Seawater,Biological
+312.78,2,Seawater,Biological
+314.78,2,Seawater,Biological
+316.78,4,Seawater,Biological
+316.98,8,Seawater,Biological
+317.29,3,Seawater,Biological
+324.74,3,Seawater,Biological
+324.88,4,Seawater,Biological
+333,1,Seawater,Biological
+335.34,31,Seawater,Biological
+337.97,6,Seawater,Biological
+338.78,4,Seawater,Biological
+338.97,38,Seawater,Biological
+339.02,8,Seawater,Biological
+340.39,3,Seawater,Biological
+340.88,14,Seawater,Biological
+341.09,13,Seawater,Biological
+342.27,8,Seawater,Biological
+342.37,1,Seawater,Biological
+342.87,15,Seawater,Biological
+348.75,1,Seawater,Biological
+348.81,1,Seawater,Biological
+348.91,14,Seawater,Biological
+350.74,2,Seawater,Biological
+350.91,2,Seawater,Biological
+352.74,2,Seawater,Biological
+352.9,6,Seawater,Biological
+353.32,10,Seawater,Biological
+354.74,2,Seawater,Biological
+355.98,4,Seawater,Biological
+358.89,19,Seawater,Biological
+360.36,1,Seawater,Biological
+360.77,2,Seawater,Biological
+361.94,22,Seawater,Biological
+363.31,5,Seawater,Biological
+369.13,9,Seawater,Biological
+369.38,5,Seawater,Biological
+370.74,5,Seawater,Biological
+371.35,4,Seawater,Biological
+372.35,10,Seawater,Biological
+372.74,3,Seawater,Biological
+374.33,11,Seawater,Biological
+374.73,5,Seawater,Biological
+376.42,19,Seawater,Biological
+376.73,4,Seawater,Biological
+377.42,33,Seawater,Biological
+382.93,14,Seawater,Biological
+384.21,5,Seawater,Biological
+384.95,16,Seawater,Biological
+385.93,26,Seawater,Biological
+385.95,19,Seawater,Biological
+386.3,1,Seawater,Biological
+386.95,22,Seawater,Biological
+387.18,2,Seawater,Biological
+387.93,32,Seawater,Biological
+390.91,36,Seawater,Biological
+391.91,8,Seawater,Biological
+395.96,4,Seawater,Biological
+396.74,4,Seawater,Biological
+399.25,11,Seawater,Biological
+400.94,30,Seawater,Biological
+402.96,13,Seawater,Biological
+403.36,6,Seawater,Biological
+403.94,17,Seawater,Biological
+406.7,1,Seawater,Biological
+408.7,2,Seawater,Biological
+408.92,20,Seawater,Biological
+409.16,40,Seawater,Biological
+410.7,2,Seawater,Biological
+410.92,30,Seawater,Biological
+413.9,28,Seawater,Biological
+413.92,43,Seawater,Biological
+416.37,23,Seawater,Biological
+418.73,2,Seawater,Biological
+419.31,4,Seawater,Biological
+420.73,3,Seawater,Biological
+423.95,4,Seawater,Biological
+424.36,14,Seawater,Biological
+425.29,1,Seawater,Biological
+426.95,11,Seawater,Biological
+427.95,25,Seawater,Biological
+428.37,19,Seawater,Biological
+428.7,5,Seawater,Biological
+429.26,10,Seawater,Biological
+430.32,1,Seawater,Biological
+430.39,11,Seawater,Biological
+430.7,3,Seawater,Biological
+431.94,17,Seawater,Biological
+432.69,6,Seawater,Biological
+434.69,6,Seawater,Biological
+436.91,13,Seawater,Biological
+437.92,24,Seawater,Biological
+438.91,25,Seawater,Biological
+451.95,4,Seawater,Biological
+455.37,17,Seawater,Biological
+456.69,5,Seawater,Biological
+466.66,2,Seawater,Biological
+468.66,2,Seawater,Biological
+468.91,24,Seawater,Biological
+476.69,2,Seawater,Biological
+478.69,3,Seawater,Biological
+486.66,4,Seawater,Biological
+488.66,7,Seawater,Biological
+488.82,21,Seawater,Biological
+490.65,7,Seawater,Biological
+490.82,22,Seawater,Biological
+491.82,17,Seawater,Biological
+491.93,11,Seawater,Biological
+492.65,8,Seawater,Biological
+492.82,15,Seawater,Biological
+494.81,26,Seawater,Biological
+496.91,33,Seawater,Biological
+498.31,5,Seawater,Biological
+498.9,16,Seawater,Biological
+499.91,23,Seawater,Biological
+281.98,61,Seawater TOP15,Biological
+260.46,58,Seawater TOP15,Biological
+413.92,43,Seawater TOP15,Biological
+409.16,40,Seawater TOP15,Biological
+260.96,39,Seawater TOP15,Biological
+338.97,38,Seawater TOP15,Biological
+293.96,37,Seawater TOP15,Biological
+390.91,36,Seawater TOP15,Biological
+377.42,33,Seawater TOP15,Biological
+496.91,33,Seawater TOP15,Biological
+387.93,32,Seawater TOP15,Biological
+271.97,31,Seawater TOP15,Biological
+335.34,31,Seawater TOP15,Biological
+400.94,30,Seawater TOP15,Biological
+410.92,30,Seawater TOP15,Biological
